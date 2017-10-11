@@ -1,0 +1,2 @@
+# profiler_export
+u3d在Deep profile时，自带得profile展开层级多了会慢得无法忍受。这个工具将某一帧导出到txt，可以使用其他工具查看
